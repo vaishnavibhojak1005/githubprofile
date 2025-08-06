@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Vaishnavi Bhojak, and I am pursuing a Bachelor’s degree in Computer Science Engineering with a specialization in Data Science. I aspire to become a professional Data Engineer and later pursue a Master’s degree in Data Science. I have a strong passion for working with diverse datasets and deriving meaningful insights from them. Currently, I am enhancing my technical skills in Python, SQL, PyTorch, React.js, and Artificial Intelligence/Machine Learning, with a focus on Large Language Models (LLMs) and Natural Language Processing (NLP).
+My name is Vaishnavi Bhojak, and I am pursuing a Bachelor’s degree in Computer Science Engineering with a specialization in Data Science. I aspire to become a professional Data Engineer and later pursue a Master’s degree in Data Science. I have a strong passion for working with diverse datasets and deriving meaningful insights from them. Currently, I am enhancing my technical skills in Python, SQL, PyTorch, React.js, and Artificial Intelligence/Machine Learning, with a focus on Large Language Models (LLMs) and Natural Language Processing (NLP)
 
 
 
